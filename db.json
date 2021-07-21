@@ -3,7 +3,7 @@
     {
       "id": 0,
       "name": "Uthappizza",
-      "image": "images/foo1.jpg",
+      "image": "images/food1.jpg",
       "category": "mains",
       "label": "Hot",
       "price": "4.99",
