@@ -209,6 +209,14 @@
       "comment": "Nice food I have not to take ever.",
       "date": "2021-07-24T12:36:52.365Z",
       "id": 20
+    },
+    {
+      "dishId": 3,
+      "rating": "5",
+      "author": "Abdullah",
+      "comment": "Excellent",
+      "date": "2021-07-30T12:04:06.320Z",
+      "id": 21
     }
   ],
   "promotions": [
